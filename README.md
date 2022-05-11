@@ -1,7 +1,7 @@
 # PATRÍCIA LIMA FELISMINO 
 
 
-Focus on development and its technologies (Html5, Css3, JS, ReactJS, NodeJS, Typescript, SQLite, EJS, Express, API Rest...)
+Focus on development and its technologies (Html5, Css3, JS, ReactJS, NodeJS, Typescript, SQLite, EJS, Express, API Rest entre outros)
 
 
  -> E-mail: patriciafelismino12@gmail.com     
