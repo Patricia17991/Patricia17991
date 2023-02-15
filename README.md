@@ -1,2 +1,3 @@
-# ESTUDAR É UM SINAL DE RESPEITO CONSIGO.
+ESTUDAR É UM SINAL DE RESPEITO CONSIGO.
 
+Constância == Disciplina == Liberdade
