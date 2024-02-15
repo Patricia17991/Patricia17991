@@ -1,3 +1,3 @@
 
 
-Constância == Disciplina == Liberdade
+
